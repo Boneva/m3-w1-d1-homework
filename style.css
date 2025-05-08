@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  color: #444;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.home h1 {
+  color: red;
+}
+
+.about h1 {
+  color: green;
+}
+
+.contact h1 {
+  color: blue;
+}
